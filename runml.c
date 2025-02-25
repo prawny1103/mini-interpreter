@@ -1,8 +1,3 @@
-//  CITS2002 Project 1 2024
-//  Student1:   24314826   Jonathan Abraham
-//  Student2:   24069351   Pranav Menon
-//  Platform:   Linux
-
 // cc -std=c11 -Wall -Werror -o runml main.c
 
 #include <stdio.h>
